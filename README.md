@@ -9,4 +9,5 @@ This program will also not accept leters as data points and the graph scales acc
 ![image](https://user-images.githubusercontent.com/81503684/205457759-99c01e13-1245-4222-91d7-7e3976a9e637.png)
 
 https://www.statology.org/matplotlib-trendline/
+
 https://www.w3schools.com/python/python_conditions.asp
